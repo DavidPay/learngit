@@ -1,1 +1,2 @@
 this is day 1 branch
+why 'ls' is affected by git?
